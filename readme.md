@@ -1,5 +1,5 @@
 
-## About Laravel
+## About Project
 
 Movie ticketing system is a web application that can be used to manage cinema ticket system:
 
